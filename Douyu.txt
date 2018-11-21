@@ -1,0 +1,841 @@
+{
+  "room_name": "【第一讲师】话痨钢枪王!!",
+  "room_link": "https://www.douyu.com/4056372",
+  "room_img": "https://rpic.douyucdn.cn/asrpic/181022/4056372_1505.jpg/dy1",
+  "room_category": "无限法则",
+  "room_author": "空投小猪",
+  "watch_number": "3.9万"
+}{
+  "room_name": "国家大师网络精彩对局解说",
+  "room_link": "https://www.douyu.com/714420",
+  "room_img": "https://rpic.douyucdn.cn/asrpic/181022/714420_1505.jpg/dy1",
+  "room_category": "中国象棋",
+  "room_author": "金玉满堂2016",
+  "watch_number": "3.9万"
+}{
+  "room_name": "98胜率国服娜可露露日常微信带粉30连胜",
+  "room_link": "https://www.douyu.com/4392955",
+  "room_img": "https://rpic.douyucdn.cn/asrpic/181022/4392955_1502_86.jpg/dy1",
+  "room_category": "王者荣耀",
+  "room_author": "渝万轩",
+  "watch_number": "3.9万"
+}{
+  "room_name": "出来了 出来了。。。。",
+  "room_link": "https://www.douyu.com/3853457",
+  "room_img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif",
+  "room_category": "颜值",
+  "room_author": "歌神韦爵爷",
+  "watch_number": "3.9万"
+}{
+  "room_name": "成都酷冷攒机 努力装机ING....",
+  "room_link": "https://www.douyu.com/1440379",
+  "room_img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif",
+  "room_category": "数码科技",
+  "room_author": "成都酷冷科技",
+  "watch_number": "3.9万"
+}{
+  "room_name": "技术主播了解一下。",
+  "room_link": "https://www.douyu.com/2008702",
+  "room_img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif",
+  "room_category": "刺激战场",
+  "room_author": "茉凉是个大长腿丶",
+  "watch_number": "3.9万"
+}{
+  "room_name": "第一中单带qq区房管粉丝五排上王者！",
+  "room_link": "https://www.douyu.com/5567305",
+  "room_img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif",
+  "room_category": "王者荣耀",
+  "room_author": "白逸Boss",
+  "watch_number": "3.9万"
+}{
+  "room_name": "R直播|一起撕名牌24时全民乐翻天",
+  "room_link": "https://www.douyu.com/81970",
+  "room_img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif",
+  "room_category": "一起看",
+  "room_author": "詹姆斯龚",
+  "watch_number": "3.8万"
+}{
+  "room_name": "~常年窝警下的预言家天敌~",
+  "room_link": "https://www.douyu.com/1710060",
+  "room_img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif",
+  "room_category": "狼人杀专区",
+  "room_author": "じò依依菟ò",
+  "watch_number": "3.8万"
+}{
+  "room_name": "WZM宁夏-训练营TOP1选手",
+  "room_link": "https://www.douyu.com/5468586",
+  "room_img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif",
+  "room_category": "刺激战场",
+  "room_author": "WZM宁夏",
+  "watch_number": "3.8万"
+}{
+  "room_name": "天秀貂蝉，国服号冲榜·",
+  "room_link": "https://www.douyu.com/2437826",
+  "room_img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif",
+  "room_category": "王者荣耀",
+  "room_author": "渝万高高吖",
+  "watch_number": "3.8万"
+}{
+  "room_name": "双系统：3飞机极速车神",
+  "room_link": "https://www.douyu.com/4727327",
+  "room_img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif",
+  "room_category": "QQ飞车",
+  "room_author": "清晨Ccc丶",
+  "watch_number": "3.8万"
+}{
+  "room_name": "SnakeT1训练赛，gogogo",
+  "room_link": "https://www.douyu.com/2108375",
+  "room_img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif",
+  "room_category": "刺激战场",
+  "room_author": "众竞丶FSM秋兮",
+  "watch_number": "3.8万"
+}{
+  "room_name": "掐鸡吗小哥哥",
+  "room_link": "https://www.douyu.com/4108896",
+  "room_img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif",
+  "room_category": "颜值",
+  "room_author": "miko小可爱丶",
+  "watch_number": "3.7万"
+}{
+  "room_name": "颜值区野生小西 ，来尬聊一波",
+  "room_link": "https://www.douyu.com/5672095",
+  "room_img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif",
+  "room_category": "颜值",
+  "room_author": "唐原西",
+  "watch_number": "3.7万"
+}{
+  "room_name": "和李导双排~",
+  "room_link": "https://www.douyu.com/3281795",
+  "room_img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif",
+  "room_category": "王者荣耀",
+  "room_author": "渝万rain",
+  "watch_number": "3.7万"
+}{
+  "room_name": "风云天下公益-日赚千元",
+  "room_link": "https://www.douyu.com/269675",
+  "room_img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif",
+  "room_category": "传奇",
+  "room_author": "721017522",
+  "watch_number": "3.7万"
+}{
+  "room_name": "练枪.加油！",
+  "room_link": "https://www.douyu.com/5402773",
+  "room_img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif",
+  "room_category": "穿越火线",
+  "room_author": "汉宫小琦",
+  "watch_number": "3.7万"
+}{
+  "room_name": "努力练技术的小姐姐",
+  "room_link": "https://www.douyu.com/3833611",
+  "room_img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif",
+  "room_category": "王者荣耀",
+  "room_author": "天然猫丶",
+  "watch_number": "3.7万"
+}{
+  "room_name": "老友：天下第三，猛男论剑。",
+  "room_link": "https://www.douyu.com/294871",
+  "room_img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif",
+  "room_category": "天涯明月刀",
+  "room_author": "友趣丶",
+  "watch_number": "3.6万"
+}{
+  "room_name": "关注免费带粉高胜率",
+  "room_link": "https://www.douyu.com/3867189",
+  "room_img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif",
+  "room_category": "王者荣耀",
+  "room_author": "渝万丶余生a",
+  "watch_number": "3.6万"
+}{
+  "room_name": "深渊卢克超时空不排队哦",
+  "room_link": "https://www.douyu.com/3382489",
+  "room_img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif",
+  "room_category": "DNF",
+  "room_author": "十年de糖果",
+  "watch_number": "3.6万"
+}{
+  "room_name": "万炮大神猎鱼直播间",
+  "room_link": "https://www.douyu.com/1773471",
+  "room_img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif",
+  "room_category": "捕鱼休闲",
+  "room_author": "万炮大神猎鱼",
+  "watch_number": "3.6万"
+}{
+  "room_name": "7.0KD 前亚服第一",
+  "room_link": "https://www.douyu.com/3771472",
+  "room_img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif",
+  "room_category": "绝地求生",
+  "room_author": "林旧Lin9",
+  "watch_number": "3.6万"
+}{
+  "room_name": "【星星陪你看】电影 欧美恐怖周星驰林正英",
+  "room_link": "https://www.douyu.com/20415",
+  "room_img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif",
+  "room_category": "一起看",
+  "room_author": "Sai_C",
+  "watch_number": "3.6万"
+}{
+  "room_name": "今天10连胜的直播间！",
+  "room_link": "https://www.douyu.com/5511603",
+  "room_img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif",
+  "room_category": "DOTA",
+  "room_author": "My弟灬",
+  "watch_number": "3.6万"
+}{
+  "room_name": "176热血归来 纯净复古 1747037",
+  "room_link": "https://www.douyu.com/1747037",
+  "room_img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif",
+  "room_category": "传奇",
+  "room_author": "烈焰之城丶品牌大服",
+  "watch_number": "3.6万"
+}{
+  "room_name": "清风:哎呀，标签怎么就换了！",
+  "room_link": "https://www.douyu.com/483729",
+  "room_img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif",
+  "room_category": "天涯明月刀",
+  "room_author": "挽词丶清风",
+  "watch_number": "3.6万"
+}{
+  "room_name": "爱冒险的梦，我陪你去疯 4724184",
+  "room_link": "https://www.douyu.com/4724184",
+  "room_img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif",
+  "room_category": "连麦互动",
+  "room_author": "航航小姐姐",
+  "watch_number": "3.6万"
+}{
+  "room_name": "（声优）80后走位流花式跳伞冠军吹牛在线",
+  "room_link": "https://www.douyu.com/4624962",
+  "room_img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif",
+  "room_category": "绝地求生",
+  "room_author": "瓜瓜瓜瓜皮叔",
+  "watch_number": "3.6万"
+}{
+  "room_name": "始于颜值，陷于技术，终于疯了",
+  "room_link": "https://www.douyu.com/551074",
+  "room_img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif",
+  "room_category": "绝地求生",
+  "room_author": "逍遥丶小鲨丷鱼",
+  "watch_number": "3.6万"
+}{
+  "room_name": "哦哈哟~迷茫的一天又开始了！",
+  "room_link": "https://www.douyu.com/102366",
+  "room_img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif",
+  "room_category": "绝地求生",
+  "room_author": "渝妍茜的汐",
+  "watch_number": "3.6万"
+}{
+  "room_name": "称霸亚服，China No.1",
+  "room_link": "https://www.douyu.com/2182771",
+  "room_img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif",
+  "room_category": "刺激战场",
+  "room_author": "王浮生S",
+  "watch_number": "3.6万"
+}{
+  "room_name": "正经主播，绿色直播间",
+  "room_link": "https://www.douyu.com/5686496",
+  "room_img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif",
+  "room_category": "刺激战场",
+  "room_author": "黄黄黄黄黄黄鹤楼",
+  "watch_number": "3.6万"
+}{
+  "room_name": "176热血回忆 纯净复古",
+  "room_link": "https://www.douyu.com/1746967",
+  "room_img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif",
+  "room_category": "传奇",
+  "room_author": "比齐山庄",
+  "watch_number": "3.6万"
+}{
+  "room_name": "小天真：国服第一弟弟",
+  "room_link": "https://www.douyu.com/26764",
+  "room_img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif",
+  "room_category": "魔兽世界",
+  "room_author": "小天真么么哒",
+  "watch_number": "3.6万"
+}{
+  "room_name": "【声优梦】亚服杀人王梦白菜",
+  "room_link": "https://www.douyu.com/1756941",
+  "room_img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif",
+  "room_category": "COD15",
+  "room_author": "寄梦人3hyc",
+  "watch_number": "3.6万"
+}{
+  "room_name": "把所有水友房管带上王牌",
+  "room_link": "https://www.douyu.com/5408846",
+  "room_img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif",
+  "room_category": "刺激战场",
+  "room_author": "VG丶Ksy",
+  "watch_number": "3.6万"
+}{
+  "room_name": "(四川老乡）带粉上车！可爱的男孩子",
+  "room_link": "https://www.douyu.com/4869172",
+  "room_img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif",
+  "room_category": "王者荣耀",
+  "room_author": "兔神Ts",
+  "watch_number": "3.6万"
+}{
+  "room_name": "Happy Birthday ❤me",
+  "room_link": "https://www.douyu.com/1952174",
+  "room_img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif",
+  "room_category": "守望先锋",
+  "room_author": "没熬完的夜",
+  "watch_number": "3.6万"
+}{
+  "room_name": "追风少女在线比心",
+  "room_link": "https://www.douyu.com/4793076",
+  "room_img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif",
+  "room_category": "颜值",
+  "room_author": "Aura阿茶",
+  "watch_number": "3.5万"
+}{
+  "room_name": "大秘境请带好面包！晚上M戈霍恩",
+  "room_link": "https://www.douyu.com/707488",
+  "room_img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif",
+  "room_category": "魔兽世界",
+  "room_author": "璀璨星辰弈",
+  "watch_number": "3.5万"
+}{
+  "room_name": "天才少年吃鸡这一块",
+  "room_link": "https://www.douyu.com/4430301",
+  "room_img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif",
+  "room_category": "CF手游",
+  "room_author": "渝万playboy55",
+  "watch_number": "3.5万"
+}{
+  "room_name": "白鲨NS型选手",
+  "room_link": "https://www.douyu.com/5431146",
+  "room_img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif",
+  "room_category": "穿越火线",
+  "room_author": "白鲨文文",
+  "watch_number": "3.5万"
+}{
+  "room_name": "努力和坚持 么么哒",
+  "room_link": "https://www.douyu.com/790334",
+  "room_img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif",
+  "room_category": "颜值",
+  "room_author": "珍珍同学",
+  "watch_number": "3.5万"
+}{
+  "room_name": "斗鱼第一花木兰.",
+  "room_link": "https://www.douyu.com/5413718",
+  "room_img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif",
+  "room_category": "王者荣耀",
+  "room_author": "小虎虎阿",
+  "watch_number": "3.5万"
+}{
+  "room_name": "日常王牌局免费带粉，要上车么",
+  "room_link": "https://www.douyu.com/5270855",
+  "room_img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif",
+  "room_category": "刺激战场",
+  "room_author": "骚皮峰",
+  "watch_number": "3.5万"
+}{
+  "room_name": "盒盒一：我真是可爱到爆了！噗~",
+  "room_link": "https://www.douyu.com/2197930",
+  "room_img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif",
+  "room_category": "绝地求生",
+  "room_author": "逍遥丶BestAy",
+  "watch_number": "3.5万"
+}{
+  "room_name": "【小依同学】求保护，求疼爱",
+  "room_link": "https://www.douyu.com/5324561",
+  "room_img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif",
+  "room_category": "绝地求生",
+  "room_author": "36M小小依",
+  "watch_number": "3.5万"
+}{
+  "room_name": "公益微变--冰雪之城",
+  "room_link": "https://www.douyu.com/1879439",
+  "room_img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif",
+  "room_category": "传奇",
+  "room_author": "陪伴一生的传奇",
+  "watch_number": "3.5万"
+}{
+  "room_name": "江南公益单职业！第三季！",
+  "room_link": "https://www.douyu.com/1746684",
+  "room_img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif",
+  "room_category": "传奇",
+  "room_author": "简单传奇丶品牌",
+  "watch_number": "3.5万"
+}{
+  "room_name": "一个被手捧雷眷顾的女人~",
+  "room_link": "https://www.douyu.com/4581422",
+  "room_img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif",
+  "room_category": "英雄杀",
+  "room_author": "迷人的卿姐姐i",
+  "watch_number": "3.5万"
+}{
+  "room_name": "好好健身，天天学习",
+  "room_link": "https://www.douyu.com/665517",
+  "room_img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif",
+  "room_category": "户外",
+  "room_author": "野蛮女友获获糖",
+  "watch_number": "3.5万"
+}{
+  "room_name": "钓鱼执法官 5061617",
+  "room_link": "https://www.douyu.com/5061617",
+  "room_img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif",
+  "room_category": "全军出击",
+  "room_author": "NO丶1思言",
+  "watch_number": "3.5万"
+}{
+  "room_name": "曦可爱 你要淑女一点......淡定淡定",
+  "room_link": "https://www.douyu.com/5478401",
+  "room_img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif",
+  "room_category": "CF手游",
+  "room_author": "小冰曦",
+  "watch_number": "3.5万"
+}{
+  "room_name": "一个滑雪板玩的贼秀的奇女子~",
+  "room_link": "https://www.douyu.com/4352268",
+  "room_img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif",
+  "room_category": "无限法则",
+  "room_author": "无忧小梵兮",
+  "watch_number": "3.5万"
+}{
+  "room_name": "公益单职业-《三国霸业》",
+  "room_link": "https://www.douyu.com/1746964",
+  "room_img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif",
+  "room_category": "传奇",
+  "room_author": "三国霸业直播间",
+  "watch_number": "3.5万"
+}{
+  "room_name": "娜么爱你为什么~",
+  "room_link": "https://www.douyu.com/5506441",
+  "room_img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif",
+  "room_category": "颜值",
+  "room_author": "重口小米娜",
+  "watch_number": "3.4万"
+}{
+  "room_name": "秀娥了~~~老铁！！！",
+  "room_link": "https://www.douyu.com/5253112",
+  "room_img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif",
+  "room_category": "刺激战场",
+  "room_author": "四大名菜丶香酥雨声",
+  "watch_number": "3.4万"
+}{
+  "room_name": "职业联赛A组循环赛6场",
+  "room_link": "https://www.douyu.com/5096857",
+  "room_img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif",
+  "room_category": "DNF",
+  "room_author": "DNF海因0206",
+  "watch_number": "3.4万"
+}{
+  "room_name": "老胡：王牌杀手",
+  "room_link": "https://www.douyu.com/2294903",
+  "room_img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif",
+  "room_category": "刺激战场",
+  "room_author": "老胡真会玩",
+  "watch_number": "3.4万"
+}{
+  "room_name": "练会枪呀。。。。",
+  "room_link": "https://www.douyu.com/5402091",
+  "room_img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif",
+  "room_category": "穿越火线",
+  "room_author": "汉宫sunny",
+  "watch_number": "3.4万"
+}{
+  "room_name": "兄弟们冲鸭~冲冲冲！！",
+  "room_link": "https://www.douyu.com/5679790",
+  "room_img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif",
+  "room_category": "王者荣耀",
+  "room_author": "渝万Alulu",
+  "watch_number": "3.4万"
+}{
+  "room_name": "【小贤兒】青春 爱情 喜剧 公寓",
+  "room_link": "https://www.douyu.com/1525851",
+  "room_img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif",
+  "room_category": "一起看",
+  "room_author": "曾小贤兒",
+  "watch_number": "3.4万"
+}{
+  "room_name": "求求你们了 点波关注叭！",
+  "room_link": "https://www.douyu.com/5431396",
+  "room_img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif",
+  "room_category": "刺激战场",
+  "room_author": "社会你彤哥丶",
+  "watch_number": "3.4万"
+}{
+  "room_name": "吃鸡？这辈子不可能吃鸡的 4598342",
+  "room_link": "https://www.douyu.com/4598342",
+  "room_img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif",
+  "room_category": "刺激战场",
+  "room_author": "二爷爷爷爷呀",
+  "watch_number": "3.4万"
+}{
+  "room_name": "快点击领取你的小阔耐呀",
+  "room_link": "https://www.douyu.com/4417046",
+  "room_img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif",
+  "room_category": "颜值",
+  "room_author": "1条咸鱼酥",
+  "watch_number": "3.4万"
+}{
+  "room_name": "冲锋瞬的成长",
+  "room_link": "https://www.douyu.com/3626386",
+  "room_img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif",
+  "room_category": "穿越火线",
+  "room_author": "渝万丶JF",
+  "watch_number": "3.4万"
+}{
+  "room_name": "【无限法则】请关爱空巢老人",
+  "room_link": "https://www.douyu.com/34074",
+  "room_img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif",
+  "room_category": "无限法则",
+  "room_author": "爱吃肉的伴友君",
+  "watch_number": "3.4万"
+}{
+  "room_name": "一个演员的自我修养 968031",
+  "room_link": "https://www.douyu.com/968031",
+  "room_img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif",
+  "room_category": "DOTA2",
+  "room_author": "ccowl",
+  "watch_number": "3.4万"
+}{
+  "room_name": "吃鸡 来一发",
+  "room_link": "https://www.douyu.com/5304935",
+  "room_img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif",
+  "room_category": "CF手游",
+  "room_author": "蘑菇专杀快递报点狗",
+  "watch_number": "3.4万"
+}{
+  "room_name": "抽粉丝号上王牌，单排中",
+  "room_link": "https://www.douyu.com/5103586",
+  "room_img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif",
+  "room_category": "刺激战场",
+  "room_author": "一只hk",
+  "watch_number": "3.4万"
+}{
+  "room_name": "【美洋】萨瓦迪卡~欢迎大家~",
+  "room_link": "https://www.douyu.com/3458054",
+  "room_img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif",
+  "room_category": "绝地求生",
+  "room_author": "美洋princess",
+  "watch_number": "3.4万"
+}{
+  "room_name": "Wade: 堡垒最秀 教你如何用改板来秀",
+  "room_link": "https://www.douyu.com/5391657",
+  "room_img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif",
+  "room_category": "堡垒之夜",
+  "room_author": "EYQ丶Wade",
+  "watch_number": "3.4万"
+}{
+  "room_name": "香蕉 不配休息的我",
+  "room_link": "https://www.douyu.com/5074679",
+  "room_img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif",
+  "room_category": "堡垒之夜",
+  "room_author": "SVG丶香蕉",
+  "watch_number": "3.4万"
+}{
+  "room_name": "4倍压枪怪！",
+  "room_link": "https://www.douyu.com/823585",
+  "room_img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif",
+  "room_category": "绝地求生",
+  "room_author": "神卡丶",
+  "watch_number": "3.4万"
+}{
+  "room_name": "百万点卷来袭丶小锤锤最后一天",
+  "room_link": "https://www.douyu.com/600594",
+  "room_img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif",
+  "room_category": "穿越火线",
+  "room_author": "老V丶",
+  "watch_number": "3.4万"
+}{
+  "room_name": "一个来自内蒙古的“技术”女主播,聊聊天？",
+  "room_link": "https://www.douyu.com/5727136",
+  "room_img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif",
+  "room_category": "无限法则",
+  "room_author": "杨聪明Yoon丶",
+  "watch_number": "3.3万"
+}{
+  "room_name": "一点都不跨",
+  "room_link": "https://www.douyu.com/5252654",
+  "room_img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif",
+  "room_category": "刺激战场",
+  "room_author": "四大名菜丶醋溜孤木",
+  "watch_number": "3.3万"
+}{
+  "room_name": "东南亚第一！办卡上车！鱼翅抽奖~",
+  "room_link": "https://www.douyu.com/5146023",
+  "room_img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif",
+  "room_category": "绝地求生",
+  "room_author": "嗷嗷大叔1314",
+  "watch_number": "3.3万"
+}{
+  "room_name": "等水友上车  关注加速器送不停",
+  "room_link": "https://www.douyu.com/5690481",
+  "room_img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif",
+  "room_category": "无限法则",
+  "room_author": "燃心小哥",
+  "watch_number": "3.3万"
+}{
+  "room_name": "你的傻子主播上线了……",
+  "room_link": "https://www.douyu.com/5197300",
+  "room_img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif",
+  "room_category": "FM233",
+  "room_author": "晴舒Icey",
+  "watch_number": "3.3万"
+}{
+  "room_name": "t1训练赛日常被教训",
+  "room_link": "https://www.douyu.com/5602670",
+  "room_img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif",
+  "room_category": "刺激战场",
+  "room_author": "AgFoxXueYu",
+  "watch_number": "3.3万"
+}{
+  "room_name": "1.80星王-飞扬合击-散人打金",
+  "room_link": "https://www.douyu.com/1746707",
+  "room_img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif",
+  "room_category": "传奇",
+  "room_author": "卡巴巴拉斯",
+  "watch_number": "3.3万"
+}{
+  "room_name": "天冷.记得保暖",
+  "room_link": "https://www.douyu.com/3692107",
+  "room_img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif",
+  "room_category": "绝地求生",
+  "room_author": "思琪丶萌新求关注",
+  "watch_number": "3.3万"
+}{
+  "room_name": "不断告别,不断相遇.❤",
+  "room_link": "https://www.douyu.com/5341463",
+  "room_img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif",
+  "room_category": "逆战",
+  "room_author": "PE萌66",
+  "watch_number": "3.3万"
+}{
+  "room_name": "就想睡到自然醒",
+  "room_link": "https://www.douyu.com/5410049",
+  "room_img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif",
+  "room_category": "绝地求生",
+  "room_author": "U酱爱吃糯米糕",
+  "watch_number": "3.3万"
+}{
+  "room_name": "小艺：声音与技术并存的girl",
+  "room_link": "https://www.douyu.com/4662094",
+  "room_img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif",
+  "room_category": "绝地求生",
+  "room_author": "小艺mia",
+  "watch_number": "3.3万"
+}{
+  "room_name": "练枪练枪练枪 5402177",
+  "room_link": "https://www.douyu.com/5402177",
+  "room_img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif",
+  "room_category": "穿越火线",
+  "room_author": "汉宫小离",
+  "watch_number": "3.3万"
+}{
+  "room_name": "斯哒：嗓子发炎 话不会太多~",
+  "room_link": "https://www.douyu.com/5338156",
+  "room_img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif",
+  "room_category": "绝地求生",
+  "room_author": "星予丶王斯哒",
+  "watch_number": "3.3万"
+}{
+  "room_name": "✌七七酱✌ 你的青铜我的七~",
+  "room_link": "https://www.douyu.com/777777",
+  "room_img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif",
+  "room_category": "英雄联盟",
+  "room_author": "chere七七",
+  "watch_number": "3.3万"
+}{
+  "room_name": "等一个渡劫QAQ",
+  "room_link": "https://www.douyu.com/5465574",
+  "room_img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif",
+  "room_category": "颜值",
+  "room_author": "阿橘QAQ",
+  "watch_number": "3.3万"
+}{
+  "room_name": "苏轼：空腹上分",
+  "room_link": "https://www.douyu.com/68652",
+  "room_img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif",
+  "room_category": "英雄联盟",
+  "room_author": "苏轼丶Sush4",
+  "watch_number": "3.3万"
+}{
+  "room_name": "武圣传奇欢迎您的加入",
+  "room_link": "https://www.douyu.com/413200",
+  "room_img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif",
+  "room_category": "传奇",
+  "room_author": "风雪夜归人m",
+  "watch_number": "3.3万"
+}{
+  "room_name": "【落日】古希腊恋爱模拟器",
+  "room_link": "https://www.douyu.com/59605",
+  "room_img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif",
+  "room_category": "DOTA2",
+  "room_author": "唯我落日",
+  "watch_number": "3.3万"
+}{
+  "room_name": "Bos²：青春不在- -",
+  "room_link": "https://www.douyu.com/313501",
+  "room_img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif",
+  "room_category": "逆水寒",
+  "room_author": "313501丶Boss",
+  "watch_number": "3.3万"
+}{
+  "room_name": "重庆刚哥攒机，配电脑，搞机王",
+  "room_link": "https://www.douyu.com/652458",
+  "room_img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif",
+  "room_category": "数码科技",
+  "room_author": "重庆刚哥金牌装机店",
+  "watch_number": "3.3万"
+}{
+  "room_name": "欢乐凯：诸神殿通关主播 带大家去冒险",
+  "room_link": "https://www.douyu.com/459911",
+  "room_img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif",
+  "room_category": "主机游戏",
+  "room_author": "Carry灬凯凯",
+  "watch_number": "3.3万"
+}{
+  "room_name": "领取一只小可爱❤️❤️",
+  "room_link": "https://www.douyu.com/5519638",
+  "room_img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif",
+  "room_category": "颜值",
+  "room_author": "恩恩呢33",
+  "watch_number": "3.3万"
+}{
+  "room_name": "【98甜】回收rng粉丝 我不会让你伤心",
+  "room_link": "https://www.douyu.com/4907579",
+  "room_img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif",
+  "room_category": "绝地求生",
+  "room_author": "98甜丶",
+  "watch_number": "3.3万"
+}{
+  "room_name": "下雨在家做美食，新主播，求关注",
+  "room_link": "https://www.douyu.com/5763963",
+  "room_img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif",
+  "room_category": "户外",
+  "room_author": "蛇类科普蛇哥",
+  "watch_number": "3.3万"
+}{
+  "room_name": "始于颜值衷于技术~",
+  "room_link": "https://www.douyu.com/637521",
+  "room_img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif",
+  "room_category": "全军出击",
+  "room_author": "苡优Aspetta",
+  "watch_number": "3.3万"
+}{
+  "room_name": "侠客风云传（预热河洛）",
+  "room_link": "https://www.douyu.com/36140",
+  "room_img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif",
+  "room_category": "主机游戏",
+  "room_author": "肥尸",
+  "watch_number": "3.2万"
+}{
+  "room_name": "10年巨商，实力讲解",
+  "room_link": "https://www.douyu.com/5071749",
+  "room_img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif",
+  "room_category": "DNF",
+  "room_author": "DNF李兄",
+  "watch_number": "3.2万"
+}{
+  "room_name": "【五五糕】重感冒且勤劳的我",
+  "room_link": "https://www.douyu.com/568730",
+  "room_img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif",
+  "room_category": "绝地求生",
+  "room_author": "Neogo01年糕",
+  "watch_number": "3.2万"
+}{
+  "room_name": "是命：小伙注定不一般",
+  "room_link": "https://www.douyu.com/5427023",
+  "room_img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif",
+  "room_category": "绝地求生",
+  "room_author": "是命命命",
+  "watch_number": "3.2万"
+}{
+  "room_name": "办卡送牛仔套，丛林套，飞行套。",
+  "room_link": "https://www.douyu.com/4815724",
+  "room_img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif",
+  "room_category": "绝地求生",
+  "room_author": "逍遥丶酒廊男枪",
+  "watch_number": "3.2万"
+}{
+  "room_name": "柒叁复古丶欢迎你",
+  "room_link": "https://www.douyu.com/1746663",
+  "room_img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif",
+  "room_category": "传奇",
+  "room_author": "再战丶沙场",
+  "watch_number": "3.2万"
+}{
+  "room_name": "[YW]biu biu biu",
+  "room_link": "https://www.douyu.com/2383433",
+  "room_img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif",
+  "room_category": "绝地求生",
+  "room_author": "渝万丶心态mx",
+  "watch_number": "3.2万"
+}{
+  "room_name": "小可：打团我们是认真的",
+  "room_link": "https://www.douyu.com/145201",
+  "room_img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif",
+  "room_category": "DNF",
+  "room_author": "斗魚丶小可",
+  "watch_number": "3.2万"
+}{
+  "room_name": "【奔驰小哥】中文字幕",
+  "room_link": "https://www.douyu.com/3573342",
+  "room_img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif",
+  "room_category": "美食",
+  "room_author": "翼风110",
+  "watch_number": "3.2万"
+}{
+  "room_name": "玛雅复古小极品",
+  "room_link": "https://www.douyu.com/1747125",
+  "room_img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif",
+  "room_category": "传奇",
+  "room_author": "阳光传奇123",
+  "watch_number": "3.2万"
+}{
+  "room_name": "天谕公益单职业打金新统战",
+  "room_link": "https://www.douyu.com/3742036",
+  "room_img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif",
+  "room_category": "传奇",
+  "room_author": "美女丶杀手",
+  "watch_number": "3.2万"
+}{
+  "room_name": "千山万水总是情 过过任务行不行",
+  "room_link": "https://www.douyu.com/5236503",
+  "room_img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif",
+  "room_category": "穿越火线",
+  "room_author": "白鲨米荤",
+  "watch_number": "3.2万"
+}{
+  "room_name": "小兴：今日排队已满",
+  "room_link": "https://www.douyu.com/151776",
+  "room_img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif",
+  "room_category": "逆水寒",
+  "room_author": "主播小兴",
+  "watch_number": "3.1万"
+}{
+  "room_name": "８０星王合击.纵横品牌.散人打金",
+  "room_link": "https://www.douyu.com/1746946",
+  "room_img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif",
+  "room_category": "传奇",
+  "room_author": "qiyou198",
+  "watch_number": "3.1万"
+}{
+  "room_name": "WZM快乐家族青草",
+  "room_link": "https://www.douyu.com/1814114",
+  "room_img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif",
+  "room_category": "刺激战场",
+  "room_author": "三清座下小道童青草",
+  "watch_number": "3.1万"
+}{
+  "room_name": "连送三天外设键盘！新主播，求照顾！",
+  "room_link": "https://www.douyu.com/5688684",
+  "room_img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif",
+  "room_category": "颜值",
+  "room_author": "DBD小野吖",
+  "watch_number": "3.1万"
+}{
+  "room_name": "甜酥音；你的耳边情人",
+  "room_link": "https://www.douyu.com/4169257",
+  "room_img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif",
+  "room_category": "刺激战场",
+  "room_author": "晴人honey",
+  "watch_number": "3.1万"
+}{
+  "room_name": "咸鱼主播 专业带粉 你不打算进来瞅瞅？",
+  "room_link": "https://www.douyu.com/4411100",
+  "room_img": "https://shark.douyucdn.cn/app/douyu/res/page/list-item-def-thumb.gif",
+  "room_category": "刺激战场",
+  "room_author": "Ron丶余风",
+  "watch_number": "3.1万"
+}
